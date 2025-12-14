@@ -4,15 +4,14 @@ const services = [
     icon: "fas fa-laptop-code",
     title: "Front-End Development",
     description:
-      "Modern, responsive websites built with HTML5, CSS3, JavaScript and popular frameworks like React, Bootstrap.",
+      "Modern, responsive websites built with HTML5, CSS3, JavaScript and popular frameworks like React,Tailwind.",
   },
   {
     id: 2,
     icon: "fas fa-server",
     title: "Back-End Development",
-    description: "Robust server-side solutions using  PHP, Node.js and database systems like MySQL",
+    description: "Robust server-side solutions using PHP, Node.js and database systems like MySQL",
   },
-
   {
     id: 3,
     icon: "fas fa-search",

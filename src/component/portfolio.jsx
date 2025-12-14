@@ -15,7 +15,7 @@ const portfolioItems = [
     imageSrc: "images/medical-website.png",
     imageAlt: "Project 1",
     title: "Medical Record System",
-    link: "#Portfolio",
+    link: "https://github.com/Rebalemu/mediVault",
   },
   {
     imageSrc: "images/shareFact.png",
